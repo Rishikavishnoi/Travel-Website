@@ -20,7 +20,7 @@ body {
 
 .navbar {
     background-color: #000000;
-    display:block;
+    display:block !important;
     /* box-shadow:inset -1px -1px 5px 7px #e28743; */
 
 }
@@ -30,7 +30,7 @@ body {
 }
 
 .item img {
-    height: 75%;
+    height: 25rem;
 }
 
 .owl-next {
