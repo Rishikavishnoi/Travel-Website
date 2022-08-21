@@ -20,6 +20,7 @@ body {
 
 .navbar {
     background-color: #000000;
+    display:block;
     /* box-shadow:inset -1px -1px 5px 7px #e28743; */
 
 }
