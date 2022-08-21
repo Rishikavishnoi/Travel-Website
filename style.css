@@ -232,8 +232,8 @@ body {
 }
 
 .theme img {
-    width: 23vw;
-    height: 35vh;
+    width: 100%;
+    height: 100%;
 
 }
 
