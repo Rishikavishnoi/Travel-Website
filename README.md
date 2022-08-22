@@ -10,4 +10,6 @@
 
 ## [DEMO](https://rishikavishnoi.github.io/Travel-Website/)
 
+![screenshot](https://github.com/Rishikavishnoi/Travel-Website/blob/main/screenshot%20(2).png)
+
  
